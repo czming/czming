@@ -12,6 +12,11 @@ Welcome to my Github! I'm Zhe Ming but I also go by Ming. I'm currently a sophom
 
 Connect with me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/czming/)](https://www.linkedin.com/in/czming/)
 
+
+[![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=czming)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czming)]()
+
 <!--
 **czming/czming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
