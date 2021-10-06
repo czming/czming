@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github! I'm Zhe Ming but I also go by Ming. I'm currently a sophomore Computer Science major at Georgia Tech and had previous internships (including one at TikTok!) working on robotics, computer vision, and machine learning
+Welcome to my Github! I'm Zhe Ming but I also go by Ming. I'm currently a sophomore Computer Science major at Georgia Tech and have completed previous internships working on robotics, computer vision, and machine learning (including one at TikTok!)
 
 🔭 I am currently doing research with Prof. Thad Starner, building symbiotic artificial intelligence systems that can learn from users as they go about their normal tasks
 
@@ -13,9 +13,8 @@ Welcome to my Github! I'm Zhe Ming but I also go by Ming. I'm currently a sophom
 Connect with me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/czming/)](https://www.linkedin.com/in/czming/)
 
 
-[![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=czming)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czming)]()
+[![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=czming&theme=dark&line_height=33)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czming&theme=dark&hide=Javascript)]()
 
 <!--
 **czming/czming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
