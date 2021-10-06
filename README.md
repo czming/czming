@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 Welcome to my Github! I'm Zhe Ming but I also go by Ming. I'm currently a sophomore Computer Science major at Georgia Tech and have completed previous internships working on robotics, computer vision, and machine learning (including one at TikTok!)
+
+## About Me
 
 🔭 I am currently doing research with Prof. Thad Starner, building symbiotic artificial intelligence systems that can learn from users as they go about their normal tasks
 
@@ -10,8 +12,20 @@ Welcome to my Github! I'm Zhe Ming but I also go by Ming. I'm currently a sophom
 
 ⚡ Fun fact: I used to build remote-controlled planes, my profile picture is one of my favorite ones during a test flight
 
-Connect with me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/czming/)](https://www.linkedin.com/in/czming/)
+## Languages & Frameworks
 
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />]()
+
+## Connect
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/czming)
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/8522990/chngzm) <br>
+
+## Fun Stats
 
 [![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=czming&theme=dark&line_height=33)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czming&theme=dark&hide=Javascript)]()
