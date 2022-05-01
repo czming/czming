@@ -1,10 +1,12 @@
 # Hi there 👋
 
-Welcome to my Github! I'm Zhe Ming but I also go by Ming. I'm currently a sophomore Computer Science major at Georgia Tech and have completed previous internships working on robotics, computer vision, and machine learning (including one at TikTok!)
+Welcome to my Github! I'm Zhe Ming but I also go by Ming. I'm currently a sophomore Computer Science major at Georgia Tech and have completed previous internships working on robotics, computer vision, and machine learning (including one at TikTok!). 
 
 ## About Me
 
 🔭 I am currently doing research with Prof. Thad Starner, building symbiotic artificial intelligence systems that can learn from users as they go about their normal tasks
+
+✍🏻 In my free time, I write over Machine Learning Mastery, check out some of my articles <a href="https://machinelearningmastery.com/author/chngzm/">here</a>
 
 🌱 I'm always interested to learn more about computer science, particularly machine learning and computer vision
 
