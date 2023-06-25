@@ -31,7 +31,7 @@ Welcome to my Github! I'm Zhe Ming but I also go by Ming. I'm currently a junior
 
 ## Fun Stats
 
-[![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=czming&theme=dark&line_height=33)]()
+[![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=czming&theme=dark&line_height=33&hide_rank=True)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czming&theme=dark&hide=Javascript)]()
 
 <!--
